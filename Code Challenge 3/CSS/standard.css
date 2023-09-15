@@ -1,0 +1,9 @@
+body {
+background: url(/Code\ Challenge\ 3/images/kitten.jpg);
+background-repeat: no-repeat;
+background-position-x: center;
+}
+
+#Kitten {
+font-size: 3rem;
+}
